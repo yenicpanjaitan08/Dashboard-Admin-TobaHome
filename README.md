@@ -11,6 +11,7 @@
 
 Jika ingin menggunakan db yang tersedia 
 7. Buat **database pada mysql** untuk sistem ini
+
 8. **Setting database** pada file `.env`
     ```
     DB_CONNECTION=mysql
@@ -20,5 +21,6 @@ Jika ingin menggunakan db yang tersedia
     DB_USERNAME=root
     DB_PASSWORD=
     ```
+
 9. `php artisan serve`
 10. Selesai
